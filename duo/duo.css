@@ -1,15 +1,6 @@
 img {
     width: 250px;
 }
-div {
-  line-height: 30px;
-  -webkit-column-count: 4;
-  -webkit-column-gap: 2px;
-  -moz-column-count: 4;
-  -moz-column-gap: 2px;
-  column-count: 5;
-  column-gap: 10px;
-}
  button {
   width: 50px;
   display: float; 
